@@ -1,4 +1,4 @@
-# QuestToolbox
+# MetaTools
 A batch file full of useful stuff for Quest 1/2!
 
 # Features
@@ -18,12 +18,12 @@ A batch file full of useful stuff for Quest 1/2!
 
 # How to use
 
-It is pretty simple to use QuestToolbox but if you ever get confused you can look at our wiki [here](https://github.com/mitchv2020/QuestToolbox/wiki/How-to-use)
+It is pretty simple to use MetaTools but if you ever get confused you can look at our wiki (COMING SOON)
 
 # Install
 - Windows
 
-Download the [latest release](https://github.com/mitchv2020/QuestToolbox/releases/latest/download/QuestToolbox.zip) and extract it in a folder of your liking. Make sure that the requirements folder does not get seperated.
+Download the [latest release](https://github.com/NikonUK/MetaTools/Releases) and extract it in a folder of your liking. Make sure that the requirements folder does not get seperated.
 
 - Linux
 
