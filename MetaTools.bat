@@ -1,6 +1,6 @@
 @echo off
 
-set version=v2.0.0
+set version=v2.0.1
 
 ::Checking if all files exist
 if not exist ".\Requirements" goto noRequirements
